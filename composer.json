@@ -1,0 +1,22 @@
+{
+    "name": "victor/simplecurrency.loc",
+    "type": "library",
+    "require-dev": {
+        "phpspec/phpspec": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "victor",
+            "email": "vilintritenmert@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    },
+     "config": {
+        "bin-dir": "bin"
+    },
+    "require": {}
+}
