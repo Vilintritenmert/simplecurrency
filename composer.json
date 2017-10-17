@@ -1,13 +1,7 @@
 {
-    "name": "victor/simplecurrency.loc",
+    "name": "vilintritenmert/simplecurrency",
     "version": "1.0.0",
     "type": "package",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Vilintritenmert/simplecurrency"
-        }
-    ],
     "require-dev": {
         "phpspec/phpspec": "^4.0"
     },
