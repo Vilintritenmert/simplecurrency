@@ -1,5 +1,7 @@
 <?php
 
+namespace Vilintritenmert;
+
 class SimpleCurrency
 {
     /**

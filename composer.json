@@ -18,9 +18,9 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "": "src"
-        }
+        "psr-0": {
+            "Vilintritenmert//": "src/"
+        }       
     },
      "config": {
         "bin-dir": "bin"
